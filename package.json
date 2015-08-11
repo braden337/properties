@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/braden337/properties/issues"
   },
-  "homepage": "https://github.com/braden337/properties#readme"
+  "homepage": "https://github.com/braden337/properties#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
